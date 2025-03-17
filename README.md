@@ -1,1 +1,2 @@
 # elsorepo
+# böngészőből írtam
